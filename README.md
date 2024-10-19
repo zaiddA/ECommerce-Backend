@@ -1,2 +1,2 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 
+# ecommerce-app-2024
+complete full stack ecommerce project 
